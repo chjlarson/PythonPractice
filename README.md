@@ -1,2 +1,2 @@
 # PythonPractice
-A repository meant to house practice problems predominantly written in Python
+This is a repository meant to house various practice coding scripts predominantly written in Python
