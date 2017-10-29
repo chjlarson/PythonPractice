@@ -1,6 +1,3 @@
-"""
-RUN THIS CELL TO TEST YOUR SOLUTION
-"""
 from nose.tools import assert_equal
 
 class AnagramTest(object):
