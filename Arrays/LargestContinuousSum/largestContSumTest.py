@@ -9,4 +9,4 @@ class LargeContTest(object):
         
 #Run Test
 t = LargeContTest()
-t.test(large_cont_sum)
+t.test(largeContSum)
