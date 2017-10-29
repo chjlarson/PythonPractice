@@ -13,4 +13,4 @@ class TestPair(object):
         
 #Run tests
 t = TestPair()
-t.test(pair_sum)
+t.test(pairSum)
