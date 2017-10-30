@@ -1,6 +1,6 @@
-// Consider an array of non-negaive integers. A second array is
-// formed by schuffling the elements of the first array and
-// removing a random element.
+# Consider an array of non-negaive integers. A second array is
+# formed by schuffling the elements of the first array and
+# removing a random element.
 
 def finder3(arr1, arr2):
     result = 0
